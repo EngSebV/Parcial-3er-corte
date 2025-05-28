@@ -1,14 +1,11 @@
 # Proyecto 2 – Sistema de Parqueadero
 
-## Integrantes
-- Nombre del Estudiante 1
-- Nombre del Estudiante 2
+## Hecho por:
+- Sebastian Constaín Valencia
 
 ---
 
-## Requisitos Mínimos Implementados
-
-Este proyecto fue desarrollado en **Python**, cumpliendo con todos los requisitos mínimos solicitados para la nota base de **3.0**:
+## Funciones implementadas:
 
 1. **Mapa del Parqueadero**
    - Generado dinámicamente con dimensiones **8x8** (cumple con el mínimo de más de 7x7).
