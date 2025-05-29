@@ -1,4 +1,5 @@
- Parcial 3er Corte
+# Parcial 3er Corte
+## Sebastian Constain Valencia
 
 Este repositorio contiene los proyectos desarrollados para el tercer corte de la asignatura de programación. Incluye dos aplicaciones principales:
 
