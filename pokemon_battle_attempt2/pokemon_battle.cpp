@@ -1,5 +1,4 @@
 #include <iostream>
-#include <locale>
 #include "pokemon.h"
 #include "pokedex.h"
 
