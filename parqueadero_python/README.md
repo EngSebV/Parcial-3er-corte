@@ -43,15 +43,3 @@
 - **¿Por qué se consideró necesario?**: Una visualización simbólica permite identificar rápidamente vías, espacios ocupados, libres, entrada y salida.
 - **¿Cómo se implementó?**: Se usó un diccionario `simbolos` para mapear los caracteres internos a símbolos Unicode más amigables.
 
----
-
-## Cómo Ejecutar el Proyecto
-
-1. Asegúrate de tener instalado Python 3.
-2. Ejecuta el archivo `.py` con:
-   ```bash
-   python parqueadero.py
-   ```
-3. Interactúa con el menú para registrar o retirar vehículos, ver el mapa y consultar la disponibilidad.
-
----
